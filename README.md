@@ -5,4 +5,8 @@ I am a student, currently attending the Deep Dive Coding Java + Android Bootcamp
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
