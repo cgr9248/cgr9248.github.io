@@ -5,7 +5,7 @@ I am a student, currently attending the Deep Dive Coding Java + Android Bootcamp
 
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](git@github.com:ddc-java-19/hello-world-cgr9248.git)
 
 * Hello World: Android app
 
