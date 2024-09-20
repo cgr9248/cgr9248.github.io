@@ -10,3 +10,5 @@ I am a student, currently attending the Deep Dive Coding Java + Android Bootcamp
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](www.linkedin.com/in/christian-gonzalez-b4a692328)
